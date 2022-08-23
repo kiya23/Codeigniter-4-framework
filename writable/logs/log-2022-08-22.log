@@ -1,0 +1,52 @@
+CRITICAL - 2022-08-22 08:21:50 --> No connection could be made because the target machine actively refused it.
+
+#0 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\CRUD-Codeigniter-4-master\app\Models\Product_model.php(19): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\CRUD-Codeigniter-4-master\app\Controllers\Product.php(11): App\Models\Product_model->getProduct()
+#5 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\CodeIgniter.php(914): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-Codeigniter-4-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-08-22 08:21:57 --> No connection could be made because the target machine actively refused it.
+
+#0 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\CRUD-Codeigniter-4-master\app\Models\Product_model.php(19): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\CRUD-Codeigniter-4-master\app\Controllers\Product.php(11): App\Models\Product_model->getProduct()
+#5 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\CodeIgniter.php(914): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-Codeigniter-4-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-08-22 08:22:07 --> No connection could be made because the target machine actively refused it.
+
+#0 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\CRUD-Codeigniter-4-master\app\Models\Product_model.php(19): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\CRUD-Codeigniter-4-master\app\Controllers\Product.php(11): App\Models\Product_model->getProduct()
+#5 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\CodeIgniter.php(914): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-Codeigniter-4-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-08-22 08:22:18 --> No connection could be made because the target machine actively refused it.
+
+#0 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\CRUD-Codeigniter-4-master\app\Models\Product_model.php(19): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\CRUD-Codeigniter-4-master\app\Controllers\Product.php(11): App\Models\Product_model->getProduct()
+#5 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\CodeIgniter.php(914): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-Codeigniter-4-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CRUD-Codeigniter-4-master\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
